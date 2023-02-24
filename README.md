@@ -10,7 +10,7 @@ This web application is a password generator. The html and css was provided from
 - [License](#license)
 
 ## Getting Started
-Vist the deployed GitHub page [here]()
+Vist the deployed GitHub page [here](https://dominique216.github.io/Password-Generator/)
 
 ## Installation
 1. Copy the SSH key from the Repo into a folder on your own computer
